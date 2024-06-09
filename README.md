@@ -1,5 +1,22 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! You<img src="https://symbl-world.akamaized.net/i/webp/69/976c35046193ccb6e169f0f8c2d250.webp" width="30"/>!!</h1>
+<!--<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! You<img src="https://symbl-world.akamaized.net/i/webp/69/976c35046193ccb6e169f0f8c2d250.webp" width="30"/>!!</h1>
+!-->
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://alsiam.com">Elayabharathi</a></b>
+        </samp>
+</h3>
 
+
+<p align="center"> 
+  <samp>
+    <a href="https://www.google.com/search?q=Elayabharathi">「 Google Me 」</a>
+    <br>
+    「 I am a full stack web application developer from <b>India</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
 
 <p>Welcome to my page! </br> I'm Elaya, Fullstack developer from  <b>Coimbatore India</b>, currently living in <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" width="13"/> <b>Bangalore, India</b>.I was graduated from GCT'24. Basically I love web development. Worked at a startup called Travelfika as Fullstack Developer for almost 1 year. Then now working in ImpactoX Gen as a developer. I would never say that I have learnt something completely becoz i still am & always.</p>
 <h3>Things that keeps me alive</h3>
