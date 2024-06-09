@@ -10,14 +10,40 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Elayabharathi">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Elayabharathi M V">「 Google Me 」</a>
     <br>
     「 I am a full stack web application developer from <b>India</b> 」
     <br>
     <br>
   </samp>
 </p>
-
+<p align="center">
+<!--  <a href="https://alsiam.com" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+ </a> -->
+ <a href="https://linkedin.com/in/elayabharathi-mv" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
+<a href="https://github.com/ebharathi" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+</a>
+<a href="https://leetcode.com/Elayabharathi" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" />
+</a>
+ <!-- <a href="https://dev.to/alsiam" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
+ </a> -->
+<!--  <a href="https://twitter.com/_alsiam" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a> -->
+ <a href="https://instagram.com/elayabharathi.in" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+ </a> 
+ <a href="https://facebook.com/elayabharathi" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+  </a> 
+</p>
+<br />
 <p>Welcome to my page! </br> I'm Elaya, Fullstack developer from  <b>Coimbatore India</b>, currently living in <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" width="13"/> <b>Bangalore, India</b>.I was graduated from GCT'24. Basically I love web development. Worked at a startup called Travelfika as Fullstack Developer for almost 1 year. Then now working in ImpactoX Gen as a developer. I would never say that I have learnt something completely becoz i still am & always.</p>
 <h3>Things that keeps me alive</h3>
 <p>
