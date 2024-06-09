@@ -43,10 +43,31 @@
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
   </a> 
 </p>
-<br />
-<p>Welcome to my page! </br> I'm Elaya, Fullstack developer from  <b>Coimbatore India</b>, currently living in <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" width="13"/> <b>Bangalore, India</b>.I was graduated from GCT'24. Basically I love web development. Worked at a startup called Travelfika as Fullstack Developer for almost 1 year. Then now working in ImpactoX Gen as a developer. I would never say that I have learnt something completely becoz i still am & always.</p>
+<br/>
+<hr/>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/ebharathi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ebharathi&theme=radical&border=7F3FBF&background=0D1117" alt="Elaya's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ebharathi">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ebharathi&theme=radical" alt="Elaya's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/ebharathi"><img alt="Elaya's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ebharathi&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/ebharathi"><img alt="Elaya's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ebharathi&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+<!-- <p>Welcome to my page! </br> I'm Elaya, Fullstack developer from  <b>Coimbatore India</b>, currently living in <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" width="13"/> <b>Bangalore, India</b>.I was graduated from GCT'24. Basically I love web development. Worked at a startup called Travelfika as Fullstack Developer for almost 1 year. Then now working in ImpactoX Gen as a developer. I would never say that I have learnt something completely becoz i still am & always.</p>
+-->
 <h3>Things that keeps me alive</h3>
-<p>
+<p> 
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
