@@ -3,7 +3,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Elayabharathi</a></b>
+                <b><a target="_blank" href="">Elayabharathi</a></b>
         </samp>
 </h3>
 
@@ -12,7 +12,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Elayabharathi M V">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>India</b> 」
+    「 I am a full stack web application developer from <b>Bangalore,India</b> 」
     <br>
     <br>
   </samp>
@@ -66,7 +66,9 @@
 </a>
 <!-- <p>Welcome to my page! </br> I'm Elaya, Fullstack developer from  <b>Coimbatore India</b>, currently living in <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" width="13"/> <b>Bangalore, India</b>.I was graduated from GCT'24. Basically I love web development. Worked at a startup called Travelfika as Fullstack Developer for almost 1 year. Then now working in ImpactoX Gen as a developer. I would never say that I have learnt something completely becoz i still am & always.</p>
 -->
-<h3>Things that keeps me alive</h3>
+<br/>
+<samp>Things that keeps me alive</samp>
+<br/><br/>
 <p> 
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
