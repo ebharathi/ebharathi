@@ -12,7 +12,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Elayabharathi M V">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangalore,India</b> 」
+    「 Building Startups & bringing world problems to end. 」
     <br>
     <br>
   </samp>
